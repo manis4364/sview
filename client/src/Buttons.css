@@ -1,0 +1,82 @@
+.Buttons
+{
+    width:340px;
+    padding: 0;
+    margin: 0;
+    float:left;    
+    background-color: black;
+    color: black;
+}
+
+.ResetButton
+{        
+    float:left;
+
+    margin: 5px;
+    padding: 0;
+    background-color: black;
+}
+
+.IncreaseButton
+{        
+    float:left;
+    margin: 5px;
+    padding: 0;
+    background-color: black;
+}
+
+.PriceButton
+{        
+    float:left;
+    margin: 5px;
+    padding: 0;
+    background-color: black;
+}
+
+.FarmButton
+{        
+    float:left;
+    margin: 5px;
+    padding: 0;
+    background-color: black;
+}
+
+.FarmChildrenButton
+{        
+    float:left;
+    margin: 4px;
+    padding: 0;
+    background-color: black;
+}
+
+.SaveButton
+{        
+    float:left;
+    margin: 2px;
+    padding: 0;
+    background-color: black;
+}
+
+.CancelButton
+{        
+    float:left;
+    margin: 5px;
+    padding: 0;
+    background-color: black;
+}
+
+.FillCurrentButton
+{        
+    float:left;
+    margin: 5px;
+    padding: 0;
+    background-color: black;
+}
+
+.GoToMainButton
+{        
+    float:left;
+    margin: 5px;
+    padding: 0;
+    background-color: black;
+}

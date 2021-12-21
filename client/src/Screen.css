@@ -1,0 +1,51 @@
+.Screen
+{     
+    clear:both;
+    position: absolute;
+    left: calc(50% - 160px);    
+    margin-top:10px;
+    width:340px;
+    text-align: center;
+    outline-style: solid;
+    background-color: black;
+    padding: 0;
+}
+
+
+.Text
+{     
+    clear:both;    
+    position: absolute;
+    left:10px;    
+    top: 800px;
+    margin-top:10px;  
+    margin-left:25px;
+    margin-right:25px;  
+    text-align: left;  
+    font-size:16px;
+    font-family: Arial, sans-serif;
+    padding: 0;
+}
+
+#buttonList
+{
+    /*list-style-type:none;*/
+}
+#buttonListItem
+{
+    padding:5px;
+}
+/*
+.Text ul
+{
+    margin:10px;        
+    
+}
+
+.Text li
+{
+    padding:5px;
+    margin: 10px;
+}
+*/
+

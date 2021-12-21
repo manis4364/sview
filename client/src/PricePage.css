@@ -1,0 +1,64 @@
+.Prices
+{
+    width:340px;
+    height:520px;
+    text-align: left;
+    outline-style: solid;
+    background-color: pink;
+    color: black;    
+}
+
+.PriceUl
+{ 
+    
+    list-style-type: none; 
+    margin-bottom: 2px;
+    margin:0px;
+    padding:0px;
+}
+
+.PriceContainer
+{
+    margin:3px;
+    padding:3px;
+    border-bottom: double;
+}
+.PriceL
+{
+    position:relative;
+    left: 0px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-family: monospace;
+    font-size:12px;
+    color:black;
+    justify-content: space-between;    
+    white-space: pre;
+}
+.PriceG
+{
+    position:relative;
+    left: 0px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-family: monospace;
+    font-size:12px;
+    color: darkgreen;    
+    white-space: pre;
+}
+
+.PriceB
+{
+    position:relative;
+    left: 0px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-family: monospace;
+    font-size:12px;
+    color: blue;    
+    white-space: pre;    
+}
+

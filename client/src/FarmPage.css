@@ -1,0 +1,73 @@
+.FarmPage
+{
+    width:340px;
+    height:520px;
+    text-align: left;
+    outline-style: solid;
+    background-color: pink;
+    color: black;    
+}
+
+
+.FarmUl
+{     
+    list-style-type: none; 
+    margin-bottom: 2px;
+    margin:0px;
+    padding:0px;
+}
+
+.FarmP
+{
+    text-align: center;
+
+}
+
+.FarmContainer
+{
+    margin:3px;
+    padding:3px;
+    border-bottom: double;
+    /*border-color: green;*/
+}
+
+.FarmL
+{
+    position:relative;
+    left: 0px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size:12px;
+    color:black;
+    justify-content: space-between;    
+    white-space: pre;
+}
+
+.FarmG
+{
+    position:relative;
+    left: 0px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size:12px;
+    color: green;
+    justify-content: space-between;    
+    white-space: pre;
+}
+
+.FarmB
+{
+    position:relative;
+    left: 0px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size:14px;
+    color:black;
+    justify-content: space-between;    
+    white-space: pre;
+}
+
+

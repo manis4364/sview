@@ -1,0 +1,46 @@
+.Anchor
+{
+    width:340px;
+    height:520px;
+    text-align: left;
+    outline-style: solid;
+    background-color: pink;
+    color: black;
+    
+}
+
+.Anchor p
+{
+    padding:2px;
+    margin:2px;
+    clear: both; 
+    color: darkgreen;   
+    font-size:12px;
+}
+
+
+.AnchorLabel
+{
+    padding: 2px;
+    margin:5px;
+    border-bottom: double;
+}
+
+
+.AnchorInput
+{
+    margin:5px;
+    width: 250px;
+}
+
+.AnchorInputNP
+{
+    margin:5px;
+    width: 220px;
+}
+
+.AnchorTitle
+{
+    text-align: center;
+    margin: 2px;
+}

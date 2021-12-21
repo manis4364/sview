@@ -1,0 +1,16 @@
+.Footer
+{
+    width:340px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+
+#FooterSmallText
+{
+    padding:0;
+    margin:0;
+    font-size:10px;
+}

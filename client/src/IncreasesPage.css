@@ -1,0 +1,64 @@
+.Increases
+{
+    width:340px;
+    height:520px;
+    text-align: left;
+    outline-style: solid;
+    background-color: pink;
+    color: black;    
+}
+
+.IncreasesUl
+{ 
+    
+    list-style-type: none; 
+    margin-bottom: 2px;
+    margin:0px;
+    padding:0px;
+}
+
+.IncreasesContainer
+{
+    margin:3px;
+    padding:3px;
+    border-bottom: double;
+}
+.IncreasesL
+{
+    position:relative;
+    left: 0px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-family: monospace;
+    font-size:10px;
+    color:black;
+    justify-content: space-between;    
+    white-space: pre;
+}
+.IncreasesG
+{
+    position:relative;
+    left: 0px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-family: monospace;
+    font-size:10px;
+    color: darkgreen;    
+    white-space: pre;
+}
+
+.IncreasesB
+{
+    position:relative;
+    left: 0px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-family: monospace;
+    font-size:10px;
+    color: blue;    
+    white-space: pre;    
+}
+

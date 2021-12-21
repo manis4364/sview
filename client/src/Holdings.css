@@ -1,0 +1,92 @@
+.Holdings 
+{
+    width:340px;
+    height:520px;
+    text-align: left;
+    outline-style: solid;
+    background-color: pink;
+    color: black;
+    
+}
+
+.HoldingsP
+{
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+
+.HoldingsUl
+{ 
+    
+    list-style-type: none; 
+    margin-bottom: 2px;
+    margin:0px;
+    padding:0px;
+}
+
+.HoldingsContainer
+{
+    clear: both;
+    margin:2px;
+    padding: 5px;
+    /*
+    padding-top:10px;
+    padding-bottom:20px;
+    */
+    border-bottom: double;
+}
+.HoldingsL
+{
+    position:relative;
+    left: 0px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size:12px;
+}
+.HoldingsLV
+{
+    position:relative;
+    left: 0px;
+    margin: 0px;
+    color:darkgreen;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size:12px;
+}
+
+.HoldingsUV
+{
+    position:relative;
+    left: 0px;
+    margin: 0px;
+    color:blue;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size:14px;
+}
+
+.HoldingsUVR
+{
+    position:relative;
+    float: right;
+    /*left: 0px;*/
+    margin: 0px;
+    color:blue;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size:14px;
+}
+
+
+.HoldingsB 
+{
+    position:relative;
+    left: 0px; 
+    margin: 0px;
+    color:blue;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size:12px;
+}
